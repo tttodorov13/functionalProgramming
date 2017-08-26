@@ -1,5 +1,5 @@
 /.idea/
-/.ideaHaskellLib/
 /.stack-work/
 /my-project.iml
+/my-project/.stack-work/
 /out/
